@@ -1,0 +1,10 @@
+# Python ignore list
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual Environment
+.venv
+env/
+venv/
+ENV/
